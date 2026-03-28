@@ -1,0 +1,28 @@
+# Created by GitHub Action
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+*.cover
+*.py,cover
+.coverage
+nosetests.xml
+dist/
+
+# dotenv
+.env
